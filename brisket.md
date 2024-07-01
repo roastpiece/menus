@@ -5,6 +5,7 @@
 - [ ] rauch holz
 - [ ] alufolie
 - [ ] alu pfanne
+- [ ] Bier (flüssigkeit)
 
 #### Kartoffelsalat
 - [ ] Kartoffeln festkochend
