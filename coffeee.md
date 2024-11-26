@@ -18,9 +18,10 @@ gantt
 
     Puckprep :active, puckprep, after grinding, 1m
     Espresso machen :active, espresso, after puckprep, 1m
+    Siebträger putzen :active, siebputz, after espresso, 30s
 
     section Milch
-    Kanne putzen :active, kanneputz, after espresso, 20s
+    Kanne putzen :active, kanneputz, after siebputz, 20s
     Milch holen :active, holmilch, after kanneputz, 30s
     Milch schäumen :active, milchschaum, after holmilch, 60s
     Milch pour :active, milchschenk, after milchschaum, 30s
